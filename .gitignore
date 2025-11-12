@@ -1,0 +1,26 @@
+# Python and Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environment
+.env
+
+# Terraform
+.terraform/
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.*
+crash.log
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# OS and editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+
