@@ -16,8 +16,9 @@ The workflow includes:
 This project is split into two main components:
 
 
-| **Terraform Setup** | Provisions the S3 bucket, IAM role, and policies for access. 
-| **Python Notebook** | Uploads, downloads, and queries data in the S3 bucket programmatically. 
+**Terraform Setup** :Provisions the S3 bucket, IAM role, and policies for access. 
+
+**Python Notebook** : Uploads, downloads, and queries data in the S3 bucket programmatically (you can find the explaination of this section is explained in `s3_interaction.ipynb` notebook file)
 
 
 
