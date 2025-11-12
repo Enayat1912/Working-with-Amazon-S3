@@ -73,7 +73,7 @@ terraform apply
 Learn more: [Terraform AWS S3 Documentation](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/s3_bucket)
 
 Afterward, you should be able to see the bucket in AWS consol
-[S3 Architecture](assets/img1.png)
+![S3 Architecture](assets/img1.png)
 
 ### 6. Cleanup
 To safely delete all resources created by Terraform
